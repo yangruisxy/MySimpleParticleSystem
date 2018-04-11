@@ -1,0 +1,12 @@
+﻿  ParticleManager.cpp
+c:\users\yangrui lu\desktop\mysimpleparticlesystem\mysimpleparticlesystem\particlemanager.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangrui lu\desktop\mysimpleparticlesystem\mysimpleparticlesystem\particlemanager.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangrui lu\desktop\mysimpleparticlesystem\mysimpleparticlesystem\particlemanager.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangrui lu\desktop\mysimpleparticlesystem\mysimpleparticlesystem\particlemanager.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+  Main.cpp
+c:\users\yangrui lu\desktop\mysimpleparticlesystem\mysimpleparticlesystem\main.cpp(21): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\yangrui lu\desktop\mysimpleparticlesystem\mysimpleparticlesystem\main.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangrui lu\desktop\mysimpleparticlesystem\mysimpleparticlesystem\main.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangrui lu\desktop\mysimpleparticlesystem\mysimpleparticlesystem\main.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  MySimpleParticleSystem.vcxproj -> C:\Users\Yangrui Lu\Desktop\MySimpleParticleSystem\MySimpleParticleSystem\Debug\MySimpleParticleSystem.exe
